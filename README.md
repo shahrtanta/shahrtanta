@@ -1,98 +1,203 @@
-# 👋 مرحباً، أنا وائل كمال تركي
+<div align="center">
 
-<img src="https://wkt-info.com/content/images/wktprofile.png" width="180" align="right"/>
+# 👋 أهلاً بك، أنا وائل كمال تركي
 
-## 🚀 نبذة عني
+<img src="https://wkt-info.com/content/images/wktprofile.png" width="180" style="border-radius:50%;" />
 
-مدير عام الشئون المالية والإدارية بالشهر العقاري – مكتب طنطا.
+### مدير عام الشئون المالية والإدارية | مطور برمجيات | مصمم محتوى
 
-مطور برمجيات ومصمم محتوى مهتم بتطوير الأنظمة الإدارية والمالية، وتصميم تطبيقات الويب والموبايل، وإيجاد حلول تقنية تسهّل العمل اليومي وترفع كفاءة الأداء.
+<p>
+أعمل على تطوير الأنظمة الإدارية والمالية وتطبيقات الويب والموبايل، وأسعى إلى بناء حلول تقنية عملية تسهّل العمل اليومي وتدعم التحول الرقمي.
+</p>
 
-أسعى دائماً إلى بناء منتجات عملية تخدم المستخدم وتوفر الوقت والجهد.
+<p>
+  <a href="https://www.wkt-info.com">
+    <img src="https://img.shields.io/badge/Website-wkt--info-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:wael2turk@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
----
+![](https://komarev.com/ghpvc/?username=shahrtanta&style=for-the-badge)
 
-## 💼 المنصب الحالي
-
-**مدير عام الشئون المالية والإدارية**  
-الشهر العقاري والتوثيق – مكتب طنطا
-
----
-
-## 🛠 المهارات التقنية
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### المجالات التي أعمل بها
-
-- تطوير تطبيقات Android
-- تطوير مواقع الويب
-- تطوير الأنظمة الإدارية والمالية
-- إدارة قواعد البيانات
-- تصميم واجهات وتجربة المستخدم
-- التحول الرقمي وأتمتة الإجراءات
+</div>
 
 ---
 
-## 📱 أبرز المشاريع
+# 🚀 نبذة مختصرة
 
-### ⚖️ برنامج إدارة مكاتب المحاماة
-نظام متكامل لإدارة الموكلين والقضايا والجلسات والمستندات.
+- 💼 مدير عام الشئون المالية والإدارية - الشهر العقاري والتوثيق
+- 💻 مطور تطبيقات Android و ASP.NET و VB.NET
+- 🗄️ متخصص في SQL Server و Oracle Database
+- 📱 مطور تطبيقات خدمية وإدارية على Google Play
+- 📊 مهتم بالتحول الرقمي وأتمتة الإجراءات الحكومية
+- 🎯 أركز على بناء حلول عملية تخدم المستخدمين والمؤسسات
+
+---
+
+# 🛠️ التقنيات والأدوات
+
+<div align="center">
+
+### Backend
+
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Mobile
+
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+
+### Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+---
+
+# 📱 تطبيقاتي على Google Play
 
 ### 💰 تطبيق مرتبي كام؟
-حساب الراتب الشهري بعد الخصومات والضرائب بسهولة.
+
+حساب الراتب الشهري بعد الخصومات والاستقطاعات والضرائب.
 
 🔗 https://play.google.com/store/apps/details?id=wkt.salary
 
+---
+
 ### 🚗 تطبيق رسوم السيارات
+
 حساب رسوم تسجيل السيارات بالشهر العقاري.
 
 🔗 https://play.google.com/store/apps/details?id=wkt.FessCars
 
+---
+
 ### 📑 تطبيق رسوم التوثيق
+
 دليل رسوم التوثيق بالشهر العقاري المصري.
 
 🔗 https://play.google.com/store/apps/details?id=wkt.s.allfeesofshahr
 
-### 👨‍💼 برنامج رواتب الموظفين
-إدارة الرواتب والاستحقاقات والاستقطاعات وكشوف المرتبات.
+---
 
-### 📊 برنامج المراجعة المالية
-نظام متكامل للمراجعة والتدقيق المالي.
+# 💼 أبرز المشاريع
+
+### ⚖️ برنامج إدارة مكاتب المحاماة
+
+نظام متكامل لإدارة:
+
+- الموكلين
+- القضايا
+- الجلسات
+- المستندات
+- التقارير
 
 ---
 
-## 🌐 الموقع الرسمي
+### 👨‍💼 برنامج رواتب الموظفين
+
+نظام متكامل لإدارة:
+
+- الرواتب
+- الاستقطاعات
+- البدلات
+- العلاوات
+- التقارير الشهرية
+
+---
+
+### 📊 برنامج المراجعة المالية
+
+نظام متخصص في:
+
+- المراجعة المالية
+- التدقيق
+- التقارير الرقابية
+- متابعة الإيرادات والمصروفات
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahrtanta&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrtanta&layout=compact&theme=transparent" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shahrtanta&theme=transparent" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahrtanta&theme=flat&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 🌐 الموقع الرسمي
+
+### WKT Information Technology
 
 🔗 https://www.wkt-info.com
 
 ---
 
-## 📫 التواصل
+# 📬 تواصل معي
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wael.k.turkey)
+<div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZgmnjy4rB_3QTiCsqSGuog)
+<a href="https://www.facebook.com/wael.k.turkey">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TurkyWael)
+<a href="https://twitter.com/TurkyWael">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wkt-info.com)
+<a href="https://www.youtube.com/channel/UCZgmnjy4rB_3QTiCsqSGuog">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.wkt-info.com">
+<img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
+### 💡 "التقنية ليست مجرد برمجة، بل وسيلة لتحسين حياة الناس وتبسيط أعمالهم."
 
 ⭐ إذا أعجبك أحد مشاريعي فلا تنسَ دعمها بنجمة (Star)
+
+</div>
